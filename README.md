@@ -1,2 +1,2 @@
 # Notebook
-IdeaBox, or if said in traditional GitHub style, just another repository
+A Repository For Everything, just like a basic notebook
